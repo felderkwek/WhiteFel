@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felderkwek.github.io/macsweeper-site/sitemap.xml
